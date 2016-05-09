@@ -1,0 +1,135 @@
+
+a{
+	text-decoration: none;
+}
+.header{
+	background: #2C4047;
+	text-align: center;
+	color:white;
+}
+.header h1{
+	display: inline-block;
+}
+.menu{
+	margin: 20px;
+	text-align:center;
+	display: inline-block;
+}
+.menu li{
+	display: inline-block;
+	padding: 0;
+	font-size: 10px;
+}
+.menu a{
+	display: block;
+	text-transform: uppercase;
+	padding: 10px;
+}
+.menu a:hover{
+	transform: scale(1.2);
+	color:#BD1C44;
+}
+.pad{
+	margin: 0 200px;
+}
+.fondo{
+	background: #D9D9D9;
+}
+.fondo2{
+	background-color: white;
+	padding: 50px 0;
+}
+.info{
+	padding: 20px;
+}
+.info p{
+	padding: 10px;
+}
+.caja{
+	display: inline-block;
+	width: 45%;
+	margin: 20px;
+	text-align: left;
+}
+.caja img{
+	width: 100%;
+}
+button{
+    margin: 5px;
+    padding: 5px 10px;
+    background: #2C4047;
+    border-radius: 15%;
+}
+.encabezado{
+	padding: 17px;
+}
+.auto{
+	margin:10px 45%;
+}
+.two{
+	margin: 0;
+}
+.final{
+	margin: 20px;
+	height: 30px;
+}
+.final a{
+	color:pink;
+}
+.footer{
+	background: #2C4047;
+	text-align: center;
+	padding: 20px 0; 
+	color:white;
+}
+.footer li{
+	list-style: none;
+	text-align: left;
+}
+.peque a{
+    color:white;
+}
+.peque a:hover{
+	color:#BD1C44;
+}
+.extras{
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	margin: 0 0;
+}
+.lala{
+	margin-top: 30px;
+}
+.foo{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 14px;
+}
+.foo li{
+	padding: 16px;
+}
+.foo li a{
+	color:#BD1C44;
+}
+.copy{
+	margin-top: 10px;
+}
+.copy span{
+	color:#BD1C44;
+}
+.copy h4, .foo h4{
+	color:#BD1C44;
+}
+.black{
+	color:black;
+}
+.latest{
+	text-align: center;
+}
+.white{
+	color:white;
+}
+.final i{
+	font-size: 70px;
+	text-align: center;
+}
